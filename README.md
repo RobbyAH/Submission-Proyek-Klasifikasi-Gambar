@@ -7,8 +7,8 @@ Program **DBS Foundation Coding Camp** x **Dicoding Indonesia**
 
 ## 📌 Identitas Peserta
 - **Nama:** Robby Ardiansyah Hudaya
-- **Email:** *(Dapat disesuaikan di notebook)*
-- **ID Dicoding:** *(Dapat disesuaikan di notebook)*
+- **Email:** robbyhudaya21@gmail.com
+- **ID Dicoding:** rahxzzy
 
 ---
 
